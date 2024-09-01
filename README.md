@@ -91,5 +91,8 @@ O módulo de reprodutor musical inclui as seguintes funções:
   - **Método:** `public void musicasFavoritas()`
   - **Descrição:** Mostra a lista de músicas que o usuário marcou como favoritas.
 
+### 4. Demonstração do menu principal
+
+[![Menu.jpg](https://i.postimg.cc/qvqKKcMw/Menu.jpg)](https://postimg.cc/JswtVkXH)
 
 
