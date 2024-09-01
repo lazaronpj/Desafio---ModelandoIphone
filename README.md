@@ -93,6 +93,6 @@ O módulo de reprodutor musical inclui as seguintes funções:
 
 ### 4. Demonstração do menu principal
 
-[![Menu.jpg](https://i.postimg.cc/qvqKKcMw/Menu.jpg)](https://postimg.cc/JswtVkXH)
+  [![Menu.jpg](https://i.postimg.cc/qvqKKcMw/Menu.jpg)](https://postimg.cc/JswtVkXH)
 
-
+  
